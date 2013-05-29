@@ -5,8 +5,8 @@
 [Setup]
 AppID={{0D53123E-6C02-1014-95F8-E893ADE64201}
 AppName=calc
-AppVersion=0.0.0.2
-AppVerName=calc 0.0.0.2
+AppVersion=0.0.0.5
+AppVerName=calc 0.0.0.5
 AppPublisher=will
 DefaultDirName={pf}\MyApp
 DisableDirPage=no
@@ -24,13 +24,13 @@ OutputManifestFile=C:\Documents and Settings\will\Desktop\projects\calculator\fa
 InternalCompressLevel=Max
 ShowLanguageDialog=no
 UninstallDisplayName=calc
-VersionInfoVersion=0.0.0.2
+VersionInfoVersion=0.0.0.5
 VersionInfoCompany=will
 VersionInfoDescription=calc Installer
-VersionInfoTextVersion=calc Installer 0.0.0.2
+VersionInfoTextVersion=calc Installer 0.0.0.5
 VersionInfoCopyright=Copyright (C) 2013 will
 VersionInfoProductName=calc
-VersionInfoProductVersion=0.0.0.2
+VersionInfoProductVersion=0.0.0.5
 UninstallFilesDir={app}\bin
 MinVersion=,5.1.2600
 PrivilegesRequired=lowest
